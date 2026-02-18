@@ -1,2 +1,6 @@
 # TeleChurn-Insight-
 Customer Churn Analysis &amp; Retention Strategy
+This project analyzes telecom customer churn behavior to identify why customers leave and how to retain them. The work was structured in two phases:
+Data Preparation involved cleaning and enriching the dataset by ensuring proper column naming, removing duplicates and blank rows, adding a year column for time-based calculations, and creating a subscription count column to measure service usage per customer.
+Analysis & Insights revealed that customers on month-to-month contracts, using electronic check payments, or subscribed to fiber optic internet were the most likely to churn. On the other hand, customers on two-year contracts with credit card payments and no internet service showed the highest retention. A notable 7% decline in perceived value in 2024 was identified as a key driver of increased churn that year.
+Recommendations focused on replacing electronic check with more reliable payment methods, promoting long-term contracts, improving fiber optic service quality, and targeting customers in the 12–15 month tenure window with personalized loyalty offers. Additional strategies include running customer feedback surveys, optimizing multi-service bundles, and launching contract-aware promotions to boost retention.
