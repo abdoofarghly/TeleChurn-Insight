@@ -1,4 +1,4 @@
-# TeleChurn-Insight-
+# TeleChurn-Insight
 Customer Churn Analysis &amp; Retention Strategy
 This project analyzes telecom customer churn behavior to identify why customers leave and how to retain them. The work was structured in two phases:
 Data Preparation involved cleaning and enriching the dataset by ensuring proper column naming, removing duplicates and blank rows, adding a year column for time-based calculations, and creating a subscription count column to measure service usage per customer.
